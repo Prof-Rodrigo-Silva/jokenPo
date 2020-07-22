@@ -13,7 +13,7 @@
 This project is an application of the famous game JokenPo, where the player selects one of the three available options and is faced with the choice of the application.
 Victory, draw and defeat counters were also implemented, as well as a button as an option to reset the game. Study project developed using Flutter..
 
-<img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/1.png"> <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/2.png"> <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/3.png">
+<img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/1.png">   <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/2.png">   <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/3.png">
 
 ## **About Flutter**
 
