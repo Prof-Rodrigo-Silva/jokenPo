@@ -15,6 +15,16 @@ Victory, draw and defeat counters were also implemented, as well as a button as 
 
 <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/1.png">   <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/2.png">   <img src="https://github.com/Prof-Rodrigo-Silva/jokenPo/blob/master/3.png">
 
+## **Installation**
+
+```
+# Use file app-realese.apk to install the application on the mobile device.
+```
+
+[How to install APK on Android 1](https://www.techtudo.com.br/dicas-e-tutoriais/2018/10/como-instalar-apk-no-android.ghtml)
+
+[How to install APK on Android 2](https://www.softdownload.com.br/como-instalar-aplicativos-apk-android.html)
+
 ## **About Flutter**
 
 Some resources for a Flutter project :hammer: :
